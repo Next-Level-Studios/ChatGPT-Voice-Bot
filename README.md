@@ -12,5 +12,8 @@ You'll need to edit the file to use it;
 This script was created as a test of using ChatGPT, although it was originally JS for a website, but none of the JS scripts are any good.
 Feel free to contribute!
 
+to run the file simply run the python file
+`python NextGPT.py`
+
 https://discord.nextlvl.studio 
 
