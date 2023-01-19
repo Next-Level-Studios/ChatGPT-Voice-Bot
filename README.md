@@ -1,3 +1,4 @@
+# I'm currently reworking this repo as there are dependencies 
 # ChatGPT-Voice-Bot
 
 Welcome to my attempt at making a Voice Recognition and Text to speech ChatGPT Bot.
